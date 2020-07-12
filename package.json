@@ -1,0 +1,17 @@
+{
+  "name": "find-by-array",
+  "version": "1.1.2",
+  "description": "little module to provide a more fluid find interface for arrays",
+  "main": "index.js",
+  "keywords": "array, filter, find, active record",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Philip Morris",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
